@@ -157,7 +157,6 @@ install("momentjs:moment");
 install("rzymek:moment-locale-fr");
 install("chuangbo:cookie");
 install("chrismbeckett:toastr");
-install("tomi:upload-server");
 install("tomi:upload-jquery");
 install("copleykj:jquery-autosize");
 install("copleykj:livestamp");
@@ -167,10 +166,18 @@ install("cfs:graphicsmagick");
 install("teamon:tinymce");
 install("meteorhacks:inject-initial");
 install("matb33:collection-hooks", "meteor/matb33:collection-hooks/server.js");
+install("smaltcreation:imagesloaded");
+install("mizzao:timesync");
+install("mizzao:user-status", "meteor/mizzao:user-status/server/status.js");
+install("smallhacks:upload-server-custom");
+install("okgrow:analytics", "meteor/okgrow:analytics/server/main.js");
+install("autoupdate", "meteor/autoupdate/autoupdate_server.js");
+install("meteor-platform");
+install("steeve:jquery-qrcode");
 install("livedata");
+install("jayuda:flx-qrcode");
 install("hot-code-push");
 install("launch-screen");
-install("autoupdate", "meteor/autoupdate/autoupdate_server.js");
 install("service-configuration");
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

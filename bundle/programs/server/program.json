@@ -355,10 +355,6 @@
       "path": "packages/chrismbeckett_toastr.js"
     },
     {
-      "node_modules": "npm/node_modules/meteor/tomi_upload-server/node_modules",
-      "path": "packages/tomi_upload-server.js"
-    },
-    {
       "path": "packages/tomi_upload-jquery.js"
     },
     {
@@ -390,17 +386,64 @@
       "path": "packages/matb33_collection-hooks.js"
     },
     {
+      "node_modules": "npm/node_modules/meteor/smaltcreation_imagesloaded/node_modules",
+      "path": "packages/smaltcreation_imagesloaded.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_timesync.js.map",
+      "path": "packages/mizzao_timesync.js"
+    },
+    {
+      "sourceMap": "packages/mizzao_user-status.js.map",
+      "path": "packages/mizzao_user-status.js"
+    },
+    {
+      "node_modules": "npm/node_modules/meteor/smallhacks_upload-server-custom/node_modules",
+      "path": "packages/smallhacks_upload-server-custom.js"
+    },
+    {
+      "node_modules": {
+        "npm/node_modules/meteor/okgrow_analytics/examples/flow-router/node_modules": {
+          "packageName": "okgrow:analytics",
+          "local": true
+        },
+        "npm/node_modules/meteor/okgrow_analytics/examples/iron-router/node_modules": {
+          "packageName": "okgrow:analytics",
+          "local": true
+        },
+        "npm/node_modules/meteor/okgrow_analytics/examples/react-router/node_modules": {
+          "packageName": "okgrow:analytics",
+          "local": true
+        },
+        "npm/node_modules/meteor/okgrow_analytics/node_modules": {
+          "packageName": "okgrow:analytics",
+          "local": false
+        }
+      },
+      "sourceMap": "packages/okgrow_analytics.js.map",
+      "path": "packages/okgrow_analytics.js"
+    },
+    {
+      "sourceMap": "packages/autoupdate.js.map",
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "path": "packages/meteor-platform.js"
+    },
+    {
+      "path": "packages/steeve_jquery-qrcode.js"
+    },
+    {
       "path": "packages/livedata.js"
+    },
+    {
+      "path": "packages/jayuda_flx-qrcode.js"
     },
     {
       "path": "packages/hot-code-push.js"
     },
     {
       "path": "packages/launch-screen.js"
-    },
-    {
-      "sourceMap": "packages/autoupdate.js.map",
-      "path": "packages/autoupdate.js"
     },
     {
       "node_modules": "npm/node_modules",
