@@ -144,7 +144,6 @@ install("iron:middleware-stack");
 install("iron:location");
 install("iron:controller");
 install("iron:router");
-install("rzymek:moment");
 install("coffeescript");
 install("raix:eventemitter");
 install("meteorspark:util");

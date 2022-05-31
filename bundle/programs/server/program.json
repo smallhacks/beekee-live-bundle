@@ -313,9 +313,6 @@
       "path": "packages/iron_router.js"
     },
     {
-      "path": "packages/rzymek_moment.js"
-    },
-    {
       "path": "packages/coffeescript.js"
     },
     {

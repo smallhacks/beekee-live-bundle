@@ -2,34 +2,34 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "a88202ac4516c08e356f429349ff3eb452af5757.js",
+      "path": "99d365242e46893a5d8d6a6e54906119f4cec629.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/a88202ac4516c08e356f429349ff3eb452af5757.js?meteor_js_resource=true",
-      "size": 2609104,
-      "hash": "a88202ac4516c08e356f429349ff3eb452af5757",
-      "sri": "6NLueQG89SAfDMT2YrUYvtQD4aW5aZW0C3iKtT8g8k21SzpCQDw5ozF4rPZhFxNTysAosTPmXNe1dKe49U2LHQ=="
+      "url": "/99d365242e46893a5d8d6a6e54906119f4cec629.js?meteor_js_resource=true",
+      "size": 2802875,
+      "hash": "99d365242e46893a5d8d6a6e54906119f4cec629",
+      "sri": "qsX3t8mAF7a1Z7CBpIEgYrqpGZVtw3/I3Qro7YsA4TE2P3VsPLa8lKC6VAzCpcMCjg6gtKZqxpraCt4x9lVFOQ=="
     },
     {
-      "path": "a88202ac4516c08e356f429349ff3eb452af5757.stats.json",
+      "path": "99d365242e46893a5d8d6a6e54906119f4cec629.stats.json",
       "where": "client",
       "type": "json",
       "cacheable": true,
-      "url": "/a88202ac4516c08e356f429349ff3eb452af5757.stats.json?meteor_js_resource=true",
-      "size": 35897,
-      "hash": "02e10646756243752761821d0acbd717c808cb97",
-      "sri": "hMizCQiYwY8fEop+IsRhuid/0yi9122ue1A7wxp/U/zJKS7WU4RCFAyTfHqjg18iPgr3a8XSjQvdX4ExJx+2EQ=="
+      "url": "/99d365242e46893a5d8d6a6e54906119f4cec629.stats.json?meteor_js_resource=true",
+      "size": 36306,
+      "hash": "2f3598c925c2b6e1987187497edfccca29019216",
+      "sri": "qel9+4xRBIqFnO0E1sp1HSJMcrY7lWPkijZ1bHUYY4qL8brXWeJawwzU/1MgnXvuyfPD2jRPLWGQKlXnmGs4Dw=="
     },
     {
-      "path": "8a48ee242367907e14832e166b364976a112fce7.css",
+      "path": "9ee164b381155e3436b0f30851f3ab5fae92c2b3.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/8a48ee242367907e14832e166b364976a112fce7.css?meteor_css_resource=true",
-      "size": 167101,
-      "hash": "8a48ee242367907e14832e166b364976a112fce7",
-      "sri": "hH7h+Frqo549HoDfD51zIKXfjouFdBoEz6RRv/BFCBp8QMkh5UBX/Ls2HxRBubOwzd+bvdVHo7Uq459xIwSJmw=="
+      "url": "/9ee164b381155e3436b0f30851f3ab5fae92c2b3.css?meteor_css_resource=true",
+      "size": 167555,
+      "hash": "9ee164b381155e3436b0f30851f3ab5fae92c2b3",
+      "sri": "FPDH9R1wDtd0My0cNhN0ntxy44CYHZfV8Te1snhjQlBCc/f/TOgXjzqGzLDPuq5DLEXSU49l1GA+ZszqzqzKZA=="
     },
     {
       "path": "packages/teamon_tinymce/skins/lightgray/content.inline.min.css",
